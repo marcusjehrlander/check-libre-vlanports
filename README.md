@@ -3,7 +3,7 @@ Script checks LibreNMS for IP-adresses in defined IP-networks and lists which sw
 
 Define your LibreNMS API-token and which IP-networks to be checked in libreapi.py. If you want to check more networks, just add another function.
 
-Run guestvlanports.py to run script.
+Run check-libre-vplanports.py to run script.
 
 Example output:
 
