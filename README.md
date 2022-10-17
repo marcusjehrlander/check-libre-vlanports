@@ -7,6 +7,7 @@ Run guestvlanports.py to run script.
 
 Example output:
 
+```
 -----
 Checking sw-distacc.
 Switch                         Interface                      Description                   
@@ -15,3 +16,4 @@ switch2                        GigabitEthernet3/0/36          Interface descript
 switch3                        GigabitEthernet2/0/36          Interface description
 switch4                        GigabitEthernet1/0/36          Interface description
 switch5                        GigabitEthernet1/0/3           Interface description               
+```
