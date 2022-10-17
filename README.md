@@ -9,7 +9,7 @@ Example output:
 
 ```
 -----
-Checking sw-distacc.
+Checking IP-range 1.
 Switch                         Interface                      Description                   
 switch1                        GigabitEthernet3/0/18          Interface description
 switch2                        GigabitEthernet3/0/36          Interface description
